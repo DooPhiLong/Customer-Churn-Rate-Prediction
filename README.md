@@ -33,4 +33,12 @@
 - PaymentMethod     
 - MonthlyCharges    
 - TotalCharges      
-- Return          
+- Return
+## Analysis
+[Build Machine learning model](https://github.com/DooPhiLong/Customer-Churn-Rate-Prediction/blob/main/Project%20Customer%20churn%20classification.ipynb )
+## Methods apply
+- Data cleanning
+- Data Preproccessing
+- Data Mining
+- Data modeling (K-NN, Logistic regression, Random forrest, Perceptron, Naive Bayes, Decision tree, Neraul network)
+     
