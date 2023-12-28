@@ -4,7 +4,7 @@
 
 ## 💼 Case study
 - Based on a data set about the behaviors, characteristics, and services that customers have used of a telecommunications services sector and internet service providers. Build machine learning algorithm models to predict customer churn rates.
-- From there, the service provider can determine which customers are most likely to stay in the store for the longest time to be able to offer them loyalty policies. But the main purpose is to be able to determine which customers are most likely to leave in the near future so that the service provider can offer policies to advise on needs, make modifications and take care of customers. and increase communication and information sharing to retain them. The ultimate goal is to help service providers retain as many customers as possible
+- From there, the service provider can determine which customers are most likely to stay in the store for the longest time to be able to offer them loyalty policies. But the main purpose is to be able to determine which customers are most likely to leave in the near future so that the service provider can offer policies to advise on needs, make modifications and take care of customers, increase communication and information sharing to retain them. The ultimate goal is to help service providers retain as many customers as possible
 ## 🔆 Target output
 - **Customer churn prediction**: With the customer churn prediction model, service providers can pre-identify customers with a tendency to churn. This helps focus on maintaining and improving customer satisfaction and implementing more effective customer retention measures.
 
